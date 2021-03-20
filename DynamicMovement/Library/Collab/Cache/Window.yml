@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
-  RevisionSummary: 
+    m_Keys:
+    - Assets/Assets/Night Mointains Lake/BG.prefab
+    - 
+    m_Values: 0101
+  RevisionSummary: background parallex v2
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
