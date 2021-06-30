@@ -1,5 +1,5 @@
 # Pharaohs-of-the-Sands
 Get CrEAtive
-contribuitors:
+contributors:
 -Rucareanu Catalin-Stefan
 -Hasciar Vlad-Andrei
